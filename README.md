@@ -1,6 +1,6 @@
 # Uh, hello, hello? Is anybody there?
 
-If you are reading this I'm probably ~~dead~~ working on something cool right now. Well, if you are here, you can ask me to open up ONE of my private repositories, so you can say "oh, his code sucks!"
+If you are reading this I'm probably ~~dead~~ working on something cool right now.
 
 So, about me... I'm mostly frontend and backend JS developer. I also know C#, Java, Kotlin,... uh.. what else?.., a bit of C++. I wanna learn TypeScript, Rust and Go (seems like a cool language, tbh). At the sime time I like doing some cool UI/UX stuff, you really need to think while doing it. So, recently I started to screw around in Figma to create some interesting user interfaces. I'm doing quite well.
 
